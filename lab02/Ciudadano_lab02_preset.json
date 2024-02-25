@@ -10,13 +10,13 @@
   },
   "hybrid_image": {
     "image_a": {
-      "blur_sigma": 12,
-      "blur_size": 12,
+      "blur_sigma": 20,
+      "blur_size": 20,
       "high_low": "low"
     },
     "image_b": {
-      "blur_sigma": 12,
-      "blur_size": 12,
+      "blur_sigma": 20,
+      "blur_size": 20,
       "high_low": "high"
     },
     "mixin_ratio": 0.5,

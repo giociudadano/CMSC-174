@@ -3,9 +3,12 @@
 
   File Name:    Ciudadano_lab02_hybrid.py
   Author:       Gio Ciudadano
-  Modified:     09/02/2024 12:15am
+  Modified:     23/02/2024 1:55pm
   
-  Description:  TBA
+  Description:  This laboratory document allows the user to select two images and combine them
+                together to form a hybrid image. Each step in the hybrid image process (cross-correlation,
+                convolution, high pass, and low pass) may also be viewed to see the effect of different
+                parameters in the preset file.
 '''
 
 import tkinter as tk
